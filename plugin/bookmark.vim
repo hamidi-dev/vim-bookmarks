@@ -583,16 +583,16 @@ endfunction
 " call s:register_mapping('BookmarkMoveDown',   'mjj', 1)
 " call s:register_mapping('BookmarkMoveToLine', 'mg',  1)
 
-call s:register_mapping('BookmarkShowAll',    '<leader>ma',  0)
+" call s:register_mapping('BookmarkShowAll',    '<leader>ma',  0)
 call s:register_mapping('BookmarkToggle',     'mm',  0)
 call s:register_mapping('BookmarkAnnotate',   'mi',  0)
 call s:register_mapping('BookmarkNext',       'mn',  0)
 call s:register_mapping('BookmarkPrev',       'mp',  0)
-call s:register_mapping('BookmarkClear',      '<Leader>mc',  0)
-call s:register_mapping('BookmarkClearAll',   '<Leader>mx',  0)
-call s:register_mapping('BookmarkMoveUp',     '<Leader>mkk', 1)
-call s:register_mapping('BookmarkMoveDown',   '<Leader>mjj', 1)
-call s:register_mapping('BookmarkMoveToLine', '<Leader>mg',  1)
+" call s:register_mapping('BookmarkClear',      '<Leader>mc',  0)
+" call s:register_mapping('BookmarkClearAll',   '<Leader>mx',  0)
+" call s:register_mapping('BookmarkMoveUp',     '<Leader>mkk', 1)
+" call s:register_mapping('BookmarkMoveDown',   '<Leader>mjj', 1)
+" call s:register_mapping('BookmarkMoveToLine', '<Leader>mg',  1)
 
 
 " }}}
